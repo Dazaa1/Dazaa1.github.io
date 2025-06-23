@@ -13,8 +13,6 @@ When training is done on a Laballed data-set, with known input and output, those
     - Categories
         - the algorithms of each category
   
- ![Image](/assets/img/arkham/arkham_info.PNG) 
-  
 ---
 ## What is Machine Lerning
 In simple terms, Machine Learning is a branch of Artifical Intelligence, that makes the machine think and understand like humans by learning from data.

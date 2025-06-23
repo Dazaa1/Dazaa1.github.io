@@ -12,11 +12,11 @@ author: Daza
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  HTB Profile: "https://www.hackthebox.eu/profile/46633"
+  # HTB Profile: "https://www.hackthebox.eu/profile/46633"
   My Github: "https://github.com/dazaa1"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
   
 
 # --- Logo --- #
@@ -42,7 +42,7 @@ social-network-links:
   email: "marouanelankaoui066@gmail.com"
   github: Dazaa1
   rss: true
-  twitter: _Apr4h
+  twitter: MLnkaoui
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname

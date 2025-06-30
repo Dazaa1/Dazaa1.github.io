@@ -20,7 +20,8 @@
 
 ## Table of contents
 
-- [Features](#features)
+
+
 - [**Build your website in 3 steps**](#build-your-website-in-3-steps)
 - [Add your own content](#add-your-own-content)
 - [Customizing parameters for each page](#customizing-parameters-for-each-page)
